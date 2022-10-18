@@ -2,7 +2,7 @@
   "homepage": "https://hsharma700.github.io/website1",
   "name": "website1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@sweetalert2/theme-borderless": "^5.0.12",
     "@testing-library/jest-dom": "^5.16.5",
